@@ -4,12 +4,12 @@
     <h1>Privacy Policy</h1>
   <p>Updated at 2026-03-19</p>
 
-  <p> Ticko: Brush Time (“we,” “our,” or “us”) is committed to protecting your privacy. This Privacy Policy
+  <p> Ticko: Toothbrushing Timer (“we,” “our,” or “us”) is committed to protecting your privacy. This Privacy Policy
   explains how your personal information is collected, used, and disclosed by
-  Ticko: Brush Time.</p>
+  Ticko: Toothbrushing Timer.</p>
   <p>This Privacy Policy applies to our website, and its associated subdomains (collectively, our “Service”) alongside our
     application,
-    Ticko: Brush Time. By accessing or using our Service, you signify that you have read, understood, and agree to
+    Ticko: Toothbrushing Timer. By accessing or using our Service, you signify that you have read, understood, and agree to
     our collection, storage, use, and disclosure of your personal information as described in this Privacy Policy and our
     Terms of Service. This Privacy Policy was created with <a href="https://termify.io" target="_blank">Termify</a>.
   </p>
@@ -22,37 +22,37 @@
       browser, provide analytics, remember information about you such as your language preference or login information.
     </li>
     <li>Company: when this policy mentions “Company,” “we,” “us,” or “our,” it refers to
-      Ticko: Brush Time, that is responsible for your information under this Privacy Policy.
+      Ticko: Toothbrushing Timer, that is responsible for your information under this Privacy Policy.
     </li>
     <li>Country: where
-      Ticko: Brush Time or the owners/founders of
-      Ticko: Brush Time are based, in this case is Poland
+      Ticko: Toothbrushing Timer or the owners/founders of
+      Ticko: Toothbrushing Timer are based, in this case is Poland
     </li>
     <li>Customer: refers to the company, organization or person that signs up to use the
-      Ticko: Brush Time Service to manage the relationships with your consumers or service users.
+      Ticko: Toothbrushing Timer Service to manage the relationships with your consumers or service users.
     </li>
     <li>Device: any internet connected device such as a phone, tablet, computer or any other device that can be used to
       visit
-      Ticko: Brush Time and use the services.
+      Ticko: Toothbrushing Timer and use the services.
     </li>
     <li>IP address: Every device connected to the Internet is assigned a number known as an Internet protocol (IP)
       address. These numbers are usually assigned in geographic blocks. An IP address can often be used to identify the
       location from which a device is connecting to the Internet.</li>
     <li>Personnel: refers to those individuals who are employed by
-      Ticko: Brush Time or are under contract to perform a service on behalf of one of the parties.
+      Ticko: Toothbrushing Timer or are under contract to perform a service on behalf of one of the parties.
     </li>
     <li>Personal Data: any information that directly, indirectly, or in connection with other information — including a
       personal identification number — allows for the identification or identifiability of a natural person.</li>
     <li>Service: refers to the service provided by
-      Ticko: Brush Time as described in the relative terms (if available) and on this platform.
+      Ticko: Toothbrushing Timer as described in the relative terms (if available) and on this platform.
     </li>
     <li>Third-party service: refers to advertisers, contest sponsors, promotional and marketing partners, and others who
       provide our content or whose products or services we think may interest you.</li>
     <li>Website:
-      Ticko: Brush Time's site, which can be accessed via this URL: 
+      Ticko: Toothbrushing Timer's site, which can be accessed via this URL: 
     </li>
     <li>You: a person or entity that is registered with
-      Ticko: Brush Time to use the Services.
+      Ticko: Toothbrushing Timer to use the Services.
     </li>
   </ul>
   </p>
@@ -60,12 +60,12 @@
     <p>There is some information like your Internet Protocol (IP) address and/or browser and device characteristics — is collected automatically when you visit our platform. This information may be used to connect your computer to the Internet. Other information collected automatically could be a login, e-mail address, password, computer and connection information such as browser plug-in types and versions and time zone setting, operating systems and platforms, purchase history, (we sometimes aggregate with similar information from other Users), the full Uniform Resource Locator (URL) clickstream to, through and from our Website that may include date and time; cookie number; parts of the site you viewed or searched for; and the phone number you used to call our Customer Services. We may also use browser data such as cookies, Flash cookies (also known as Flash Local Shared Objects) or similar data on certain parts of our Website for fraud prevention and other purposes. During your visits, we may use software tools such as JavaScript to measure and collect session information including page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page. We may also collect technical information to help us identify your device for fraud prevention and diagnostic purposes.</p>
     <p>We automatically collect certain information when you visit, use or navigate the platform. This information does not reveal your specific identity (like your name or contact information) but may include device and usage information, such as your IP address, browser and device characteristics, operating system, language preferences, referring URLs, device name, country, location, information about who and when you use our and other technical information. This information is primarily needed to maintain the security and operation of our platform, and for our internal analytics and reporting purposes.</p>
   <h1>Sale of Business</h1>
-  <p>We reserve the right to transfer information to a third party in the event of a sale, merger or other transfer of all or substantially all of the assets of Ticko: Brush Time or any of its Corporate Affiliates (as defined herein), or that portion of Ticko: Brush Time or any of its Corporate Affiliates to which the Service relates, or in the event that we discontinue our business or file a petition or have filed against us a petition in bankruptcy, reorganization or similar proceeding, provided that the third party agrees to adhere to the terms of this Privacy Policy.</p>
+  <p>We reserve the right to transfer information to a third party in the event of a sale, merger or other transfer of all or substantially all of the assets of Ticko: Toothbrushing Timer or any of its Corporate Affiliates (as defined herein), or that portion of Ticko: Toothbrushing Timer or any of its Corporate Affiliates to which the Service relates, or in the event that we discontinue our business or file a petition or have filed against us a petition in bankruptcy, reorganization or similar proceeding, provided that the third party agrees to adhere to the terms of this Privacy Policy.</p>
 
   <h1>Affiliates</h1>
   <p>We may disclose information (including personal information) about you to our Corporate Affiliates. For purposes of this Privacy Policy, "
       Corporate Affiliate" means any person or entity which directly or indirectly controls, is controlled by or is under
-      common control with Ticko: Brush Time, whether by ownership or otherwise. Any information relating to you
+      common control with Ticko: Toothbrushing Timer, whether by ownership or otherwise. Any information relating to you
       that we provide to our Corporate Affiliates will be treated by those Corporate Affiliates in accordance with the
       terms of this Privacy Policy.</p>
 
@@ -78,7 +78,7 @@
         the app. Your use of the app may also be subject to other local, state, national, or international
         laws.</p>
       <p>By using
-        Ticko: Brush Time or contacting us directly, you signify your acceptance of this Privacy Policy. If you do
+        Ticko: Toothbrushing Timer or contacting us directly, you signify your acceptance of this Privacy Policy. If you do
         not agree to this Privacy Policy, you should not engage with our website, or use our services. Continued use of
         the website, direct engagement with us, or following the posting of changes to this Privacy Policy that do not
         significantly affect the use or disclosure of your personal information will mean that you accept those changes.
@@ -93,7 +93,7 @@
       <h1>Links to Other Websites</h1>
       <p>This Privacy Policy applies only to the Services. The Services may contain links to other websites not operated
         or controlled by
-        Ticko: Brush Time. We are not responsible for the content, accuracy or opinions expressed in such websites,
+        Ticko: Toothbrushing Timer. We are not responsible for the content, accuracy or opinions expressed in such websites,
         and such websites are not investigated, monitored or checked for accuracy or completeness by us. Please remember
         that when you use a link to go from the Services to another website, our Privacy Policy is no longer in effect.
         Your browsing and interaction on any other website, including those that have a link on our platform, is subject
@@ -102,7 +102,7 @@
       </p>
       <h1>Cookies</h1>
       <p>
-        Ticko: Brush Time uses "Cookies" to identify the areas of our website that you have visited. A Cookie is
+        Ticko: Toothbrushing Timer uses "Cookies" to identify the areas of our website that you have visited. A Cookie is
         a small piece of data stored on your computer or mobile device by your web browser. We use Cookies to enhance the
         performance and functionality of our app but are non-essential to their use. However, without these cookies,
         certain functionality like videos may become unavailable or you would be required to enter your login details
@@ -138,9 +138,9 @@
       <p>We may display, include or make available third-party content (including data, information, applications and
         other products services) or provide links to third-party websites or services ("Third- Party Services").</p>
       <p>You acknowledge and agree that
-        Ticko: Brush Time shall not be responsible for any Third-Party Services, including their accuracy,
+        Ticko: Toothbrushing Timer shall not be responsible for any Third-Party Services, including their accuracy,
         completeness, timeliness, validity, copyright compliance, legality, decency, quality or any other aspect thereof.
-        Ticko: Brush Time does not assume and shall not have any liability or responsibility to you or any other
+        Ticko: Toothbrushing Timer does not assume and shall not have any liability or responsibility to you or any other
         person or entity for any Third-Party Services.
       </p>
       <p>Third-Party Services and links thereto are provided solely as a convenience to you and you access and use them
@@ -168,10 +168,10 @@
   </ul>
 
   <h1>Why is GDPR important?</h1>
-  <p>GDPR adds some new requirements regarding how companies should protect individuals' personal data that they collect and process. It also raises the stakes for compliance by increasing enforcement and imposing greater fines for breach. Beyond these facts it's simply the right thing to do. At Ticko: Brush Time we strongly believe that your data privacy is very important and we already have solid security and privacy practices in place that go beyond the requirements of this new regulation.</p>
+  <p>GDPR adds some new requirements regarding how companies should protect individuals' personal data that they collect and process. It also raises the stakes for compliance by increasing enforcement and imposing greater fines for breach. Beyond these facts it's simply the right thing to do. At Ticko: Toothbrushing Timer we strongly believe that your data privacy is very important and we already have solid security and privacy practices in place that go beyond the requirements of this new regulation.</p>
 
   <h1>Individual Data Subject's Rights - Data Access, Portability and Deletion</h1>
-  <p>We are committed to helping our customers meet the data subject rights requirements of GDPR. Ticko: Brush Time processes or stores all personal data in fully vetted, DPA compliant vendors. We do store all conversation and personal data for up to 6 years unless your account is deleted. In which case, we dispose of all data in accordance with our Terms of Service and Privacy Policy, but we will not hold it longer than 60 days.</p>
+  <p>We are committed to helping our customers meet the data subject rights requirements of GDPR. Ticko: Toothbrushing Timer processes or stores all personal data in fully vetted, DPA compliant vendors. We do store all conversation and personal data for up to 6 years unless your account is deleted. In which case, we dispose of all data in accordance with our Terms of Service and Privacy Policy, but we will not hold it longer than 60 days.</p>
   <p>We are aware that if you are working with EU customers, you need to be able to provide them with the ability to access, update, retrieve and remove personal data. We got you! We've been set up as self service from the start and have always given you access to your data and your customers data. Our customer support team is here for you to answer any questions you might have about working with the API.</p>
   <h1>California Residents</h1>
   <p>The California Consumer Privacy Act (CCPA) requires us to disclose categories of Personal Information we collect and how we use it, the categories of sources from whom we collect Personal Information, and the third parties with whom we share it, which we have explained above.</p>
